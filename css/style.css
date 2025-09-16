@@ -155,7 +155,7 @@ body {
 .home {
     width: 100%;
     height: 100vh ;    
-    background: url(../Images/7edcb076-e04c-494b-83ca-495e38f5bfe7.jpg) no-repeat scroll center;
+    background: url(../images/7edcb076-e04c-494b-83ca-495e38f5bfe7.jpg) no-repeat scroll center;
     background-size: cover;
     position: relative;
 }
@@ -339,7 +339,7 @@ body {
 }
 
 .featured-container .photo1{
-    background:url(../Images/kkk.jpg) no-repeat scroll center;
+    background:url(../images/kkk.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -353,7 +353,7 @@ body {
 }
 
 .featured-container .photo2{
-    background: url(../Images/34b171c1-3377-4479-83e6-dd20dc4fd573.jpg) no-repeat scroll center;
+    background: url(../images/34b171c1-3377-4479-83e6-dd20dc4fd573.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -361,7 +361,7 @@ body {
 }
 
 .featured-container .photo3{
-    background: url(../Images/c754f39b-dd2a-4099-93ab-1cc2a45be517.jpg) no-repeat scroll center;
+    background: url(../images/c754f39b-dd2a-4099-93ab-1cc2a45be517.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -370,7 +370,7 @@ body {
 }
 
 .featured-container .photo4{
-    background: url(../Images/2239d3f6-8542-48d6-84d1-e3c05cf4153a.jpg) no-repeat scroll center;
+    background: url(../images/2239d3f6-8542-48d6-84d1-e3c05cf4153a.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -379,7 +379,7 @@ body {
 }
 
 .featured-container .photo5{
-    background: url(../Images/lll.jpg) no-repeat scroll center;
+    background: url(../images/lll.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -388,7 +388,7 @@ body {
 }
 
 .featured-container .photo6{
-    background: url(../Images/nnn.jpg) no-repeat scroll center;
+    background: url(../images/nnn.jpg) no-repeat scroll center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -674,7 +674,7 @@ body {
 
 .details{
     position: relative;
-    background: url(../Images/download1.jpg) no-repeat fixed center;
+    background: url(../images/download1.jpg) no-repeat fixed center;
     background-size: cover;
     width: 100%;
     height: 50vh;
@@ -868,7 +868,7 @@ body {
 
 .market{  
     position: relative;
-    background: url(../Images/MusclePharmHeadquarters.jpg) no-repeat fixed center;
+    background: url(../images/MusclePharmHeadquarters.jpg) no-repeat fixed center;
     background-size: cover;
     width: 100%;
     height: 50vh;
